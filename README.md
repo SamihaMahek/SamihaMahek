@@ -2,12 +2,15 @@
 
 Motivated and creative engineering student with a strong interest in technology and innovation. Passionate about exploring software development, database management, and microcontroller automation logic. Always learning and building functional projects to improve daily.
 
+🔬 **Currently:** Interning at *AI for Medical Intelligence* — an 8-week hands-on training program by GPREC in collaboration with Intel Unnati (May 2026 - ongoing).
+
 ---
 
 ## 🔗 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n-samiha-mahek-6509b1392)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samihanmj@gmail.com)
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/nsamihamahek-9067/)
 
 ---
 
@@ -35,6 +38,12 @@ Motivated and creative engineering student with a strong interest in technology 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 📊 Data & AI/ML
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### 📟 Engineering Tools & Microcontrollers
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
@@ -89,19 +98,36 @@ Motivated and creative engineering student with a strong interest in technology 
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications & Courses
 
-* **🎓 NPTEL Online Certification (IIT Madras)** — Entrepreneurship
-* **⚙️ MathWorks Online Learning** — Machine Learning Onramp
-* **🐍 Elewayte Programming Group** — Python Programming
-* **💻 SP Infotech Computers** — C Programming
-* **🌌 Quantum Valley Technical Program** — Quantum Fundamentals and Advanced Algorithms (WISER Learning Amaravati)
-* **⚡ GPREC Engineering Workshop** — Circuits to Intelligence: AI & ML Applications in Electrical Engineering
+* **🌐 Cisco Networking Academy (OpenEDG Python Institute)** — Python Essentials 1
+* **🎯 HackerRank** — Python (Basic) & Problem Solving (Basic) Certified
+* **☁️ Infosys Springboard** — Programming Fundamentals using Python - Part 1
+* **🐍 VirtiLearn** — 1 Month Python Programming Bootcamp
+* **🔧 Spoken Tutorial, IIT Bombay** — Python, C, and Linux Training
+* **🌌 WISER × Qubitech (Amaravati Quantum Valley)** — Quantum Fundamentals Program
+* **⚡ GPREC × IEEE PELS** — Circuits to Intelligence: AI & ML Applications in Electrical Engineering
+* **🎓 NPTEL (IIT Madras)** — Entrepreneurship (Elite)
+* **🚀 be10x** — AI Tools & ChatGPT Workshop
+* **📊 Coursera (AWS)** — Fundamentals of Machine Learning and Artificial Intelligence (Completed)
+
+---
+
+## 🏅 Microsoft Learn Badges
+
+[![Microsoft Learn Profile](https://img.shields.io/badge/View%20Full%20Profile-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/nsamihamahek-9067/)
+
+* Introduction to GitHub
+* Introduction to Git
+* Introduction to generative AI and agents
+* Get started with Copilot in Power BI
+* Perform analytics in Power BI
+* Enhance Power BI report designs for the user experience
+* Design Power BI reports
 
 ---
 
 ## 🎖️ Achievements & Student Activities
-
 * **📄 Research Presentation:** Presented a technical paper on *"Dry Ice Cleaning of Electrical Equipment"* at Jignasa 2k24 National Student Technical Fest, GPREC.
 * **🏛️ Professional Body Active Member:** IEI Student Chapter Activity, GPREC.
 * **✍️ Fine Arts Recognition:** Best Handwriting Award - Letter Writing Competition (awarded by the Chief Superintendent, Kurnool Head Post Office).
