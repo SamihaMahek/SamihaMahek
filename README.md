@@ -55,7 +55,7 @@ Motivated and creative engineering student with a strong interest in technology 
 ## 📊 Live Coding Metrics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamihaMahek&show_icons=true&theme=radical" alt="SamihaMahek GitHub Stats" width="480" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SamihaMahek&show_icons=true&theme=radical&hide_border=true&hide_rank=true" alt="SamihaMahek GitHub Stats" width="480" />
 </p>
 
 <p align="left">
