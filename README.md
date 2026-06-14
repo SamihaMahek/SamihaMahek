@@ -102,7 +102,7 @@ Motivated and creative engineering student with a strong interest in technology 
 
 [![HackerRank Profile](https://img.shields.io/badge/HackerRank%20Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/samihanmj)
 
-* **🌐 Cisco Networking Academy (OpenEDG Python Institute)** — Python Essentials 1 * **🐍 HackerRank Badge** — Python (4-star skill badge)
+* **🌐 Cisco Networking Academy (OpenEDG Python Institute)** — Python Essentials 1 
 * **🎯 HackerRank** — Python (Basic) & Problem Solving (Basic) Certified
 * **🐍 HackerRank Badge** — Python (4-star skill badge)
 * **☁️ Infosys Springboard** — Programming Fundamentals using Python - Part 1
