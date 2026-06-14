@@ -123,12 +123,10 @@ Motivated and creative engineering student with a strong interest in technology 
 * Introduction to GitHub
 * Introduction to Git
 * Introduction to generative AI and agents
-* Introduction to natural language processing concepts
 * Get started with Copilot in Power BI
 * Perform analytics in Power BI
 * Enhance Power BI report designs for the user experience
 * Design Power BI reports
-* Scope report design requirements
 
 ---
 
