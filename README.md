@@ -37,7 +37,6 @@ Motivated and creative engineering student with a strong interest in technology 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -65,6 +64,7 @@ Motivated and creative engineering student with a strong interest in technology 
 
 ---
 
+<a name="performance-trophies"></a>
 ## 🏆 Performance Trophies
 
 <p align="left">
@@ -100,8 +100,11 @@ Motivated and creative engineering student with a strong interest in technology 
 
 ## 📜 Certifications & Courses
 
+[![HackerRank Profile](https://img.shields.io/badge/HackerRank%20Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/samihanmj)
+
 * **🌐 Cisco Networking Academy (OpenEDG Python Institute)** — Python Essentials 1
 * **🎯 HackerRank** — Python (Basic) & Problem Solving (Basic) Certified
+* **🐍 HackerRank Badge** — Python (4-star skill badge)
 * **☁️ Infosys Springboard** — Programming Fundamentals using Python - Part 1
 * **🐍 VirtiLearn** — 1 Month Python Programming Bootcamp
 * **🔧 Spoken Tutorial, IIT Bombay** — Python, C, and Linux Training
@@ -120,10 +123,12 @@ Motivated and creative engineering student with a strong interest in technology 
 * Introduction to GitHub
 * Introduction to Git
 * Introduction to generative AI and agents
+* Introduction to natural language processing concepts
 * Get started with Copilot in Power BI
 * Perform analytics in Power BI
 * Enhance Power BI report designs for the user experience
 * Design Power BI reports
+* Scope report design requirements
 
 ---
 
